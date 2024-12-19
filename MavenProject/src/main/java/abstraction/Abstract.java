@@ -2,7 +2,7 @@ package abstraction;
 
 public abstract class Abstract {
 	public abstract void display();
-	int x,y;
+	int x,y; 
 	static String a;
 	static int b;
 	public Abstract() {
